@@ -10,7 +10,7 @@ function setup() {
   createCanvas(1600, 400);
 
 
-	speed=random(5,20)
+	speed=random(5,200)
 	weight=random(400,1500)
 
 
